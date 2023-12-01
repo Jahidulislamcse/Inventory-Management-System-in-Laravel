@@ -1,5 +1,4 @@
-<!DO
-CTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +6,6 @@ CTYPE html>
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome to MIS</h1>
+<h1>This is contact page</h1>
 </body>
 </html>
